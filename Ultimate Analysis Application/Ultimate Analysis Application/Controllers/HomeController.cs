@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Helpers;
 
 namespace Ultimate_Analysis_Application.Controllers
 {
@@ -10,7 +11,8 @@ namespace Ultimate_Analysis_Application.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            UltimateDBEntities ultimate = new UltimateDBEntities();
+            return View(ultimate.StatsTests.ToList());
         }
 
         public ActionResult About()

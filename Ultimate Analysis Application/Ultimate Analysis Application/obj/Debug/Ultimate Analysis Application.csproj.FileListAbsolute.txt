@@ -27,16 +27,11 @@ C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Applicati
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.IO.Compression.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.IO.FileSystem.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
-C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.IO.Pipes.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.AccessControl.dll
-C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.Claims.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Security.Principal.Windows.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Text.Encoding.CodePages.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.ValueTuple.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Xml.ReaderWriter.dll
@@ -89,3 +84,18 @@ C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Applicati
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\obj\Debug\Ultimate Analysis Application.csproj.CopyComplete
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\obj\Debug\Ultimate Analysis Application.dll
 C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\obj\Debug\Ultimate Analysis Application.pdb
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Net.Http.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\EntityFramework.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\EntityFramework.SqlServer.dll
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\EntityFramework.xml
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\EntityFramework.SqlServer.xml
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sydney Rivero\Desktop\Ultimate Analysis App\Ultimate Analysis Application\Ultimate Analysis Application\bin\Microsoft.ApplicationInsights.xml
